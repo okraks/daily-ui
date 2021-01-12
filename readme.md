@@ -1,9 +1,9 @@
-<!-- DAY ONE -->
+# Day One
 
-<!-- SOURCE -->
+# Instagram Source
 
 https://www.instagram.com/p/CJ5iCneg02x/
 
-<!-- Image Credit -->
+# Image Credit
 
 Photo by Erik Mclean from Pexels
